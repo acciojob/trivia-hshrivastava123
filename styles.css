@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+blockquote{
+    display:block;
+    max-width:600px;
+    margin:10px;
+    padding:15px;
+    border-left: solid green;
+    background-color: #f8fffe;
+    font-weight:bold;
+
+}
